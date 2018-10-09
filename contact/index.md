@@ -7,9 +7,9 @@ search_omit: true
 
 Contact Details
 
-Parth Wazurkar<br>
-IIIT Nagpur Boys Hostel,<br>
-BSNL RTTC, Seminary Hills,<br>
-Nagpur(MH)-440006<br>
-(+91)9552283766<br>
-(+91)8668509601
+Himanshu Jain<br>
+Shiv Shakti Homez,Greater Noida<br>
+Knowledge Park III<br>
+Greater Noida (UP)- 201310<br>
+(+91)9149310525<br>
+
