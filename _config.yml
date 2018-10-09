@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Parth Wazurkar
+title: Himanshu Jain
 locale: en_US
 description: My personal homepage
 #logo: site-logo.png
@@ -36,9 +36,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Parth Wazurkar
+  name: Himanshu Jain
   avatar: bio-photo.jpg
-  email: parthwazurkar@gmail.com
+  email: jainhimanshu131@gmail.com
   disqus-shortname:
   twitter: parthw1
   facebook: parth.wazurkar
