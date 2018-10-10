@@ -8,7 +8,7 @@
   url: /blog/
 
 - title: My Projects
-  url: https://github.com/parthw1
+  url: https://github.com/himanshuj1
 
 - title: Resume
   url: /assets/docs/parth_resume.pdf
@@ -16,8 +16,8 @@
 #- title: GITHUB
 #  url: https://github.com/parthw1
 
-#- title: Contact
-#  url: /contact/
+- title: Contact
+  url: /contact/
   
-#- title: Search
-#  url: /search/
+- title: Search
+  url: /search/
