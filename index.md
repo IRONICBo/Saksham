@@ -1,4 +1,4 @@
 ---
 layout: homepage
-excerpt: "About me."
+excerpt: "About me." 
 ---
