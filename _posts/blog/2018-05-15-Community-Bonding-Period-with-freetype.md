@@ -8,8 +8,8 @@ excerpt:
 tags: []
 image:
   feature:
-date: 2018-05-15T00:00:00-00:00
-modified: 2018-05-15T00:00:00-00:00
+date: 2018-10-15T00:00:00-00:00
+modified: 2018-10-15T00:00:00-00:00
 ---
 <p>Hi reader,</p>
 <p align='justify'>My proposal was selected for GSoC 2018 on 23 April. My project is "Integrating VFlib's TeX format drivers into FreeType". FreeType currently supports multiple font formats like truetype, opentype, bdf, pcf. My project aims to increase the supported formats by providing drivers for TeX's font formats (viz. GF, TFM, PK, and VF). Now, VFlib is a font library (no longer under development) which has a mature support for the above mentioned TeX font formats. I will be using the existing modules in VFlib as a reference to develop new modules for freetype on the lines of existing bitmap drivers already available in FreeType like BDF, PCF and WINFNTS.</p>
